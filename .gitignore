@@ -1,0 +1,17 @@
+# Virtual Environment
+.venv/
+env/
+venv/
+ENV/
+
+# Python caching
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local Databases (just in case you still have SQLite)
+*.sqlite3
+
+# OS specific files
+.DS_Store
+Thumbs.db
